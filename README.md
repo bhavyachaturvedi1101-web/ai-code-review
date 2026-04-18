@@ -1,5 +1,7 @@
 # 🤖 AI Code Review Tool
 
+**Live Demo:** [ai-code-review-aqgk.vercel.app](https://ai-code-review-aqgk.vercel.app)
+
 An AI-powered code review tool that analyzes your code for bugs, security issues, performance problems and suggests improvements — built with **Java Spring Boot** and **React**.
 
 ![AI Code Review](https://img.shields.io/badge/Java-Spring%20Boot-green) ![React](https://img.shields.io/badge/Frontend-React-blue) ![Groq](https://img.shields.io/badge/AI-Groq%20LLM-orange)
